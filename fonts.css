@@ -1,0 +1,26 @@
+@font-face { 
+    font-family: "Parc Place";
+    src: url("./assets/font/Parc\ Place.ttf")format("truetype");
+}
+
+.parc {
+    font-family: "Parc Place", sans-serif;
+}
+
+@font-face { 
+    font-family: "Cream";
+    src: url("./assets/font/cream-10pt.ttf")format("truetype");
+}
+
+.cream {
+    font-family: "Cream", sans-serif;
+}
+
+@font-face { 
+    font-family: "DOSV";
+    src: url("./assets/font/Px437_DOS-V_re_JPN24.ttf")format("truetype");
+}
+
+.dosv {
+    font-family: "DOSV", sans-serif;
+}
